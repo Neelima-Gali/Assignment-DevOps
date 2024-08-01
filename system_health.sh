@@ -65,7 +65,4 @@ fi
 running_processes=$(get_running_processes)
 log_alert "Number of running processes: $running_processes"
 
-# End of script
-
-
-LOG_FILE="/var/log/system_health.log"
+# End 
